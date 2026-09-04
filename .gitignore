@@ -1,0 +1,8 @@
+# 编译产物
+*.elf
+*.o
+build/
+
+# 编辑器/系统
+.vscode/
+.DS_Store
